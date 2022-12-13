@@ -280,7 +280,7 @@ img {
 	padding-bottom: 192px;
 
 	background-color: var(--hero-bcg-color);
-	background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images//people-office.jpg);
+	background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
 	background-repeat: no-repeat;
 	background-size: 1440px;
 	background-position: center;
