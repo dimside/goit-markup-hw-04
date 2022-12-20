@@ -200,10 +200,10 @@ img {
 
 .order-button {
 	padding: 16px 32px;
-
 	border: 0;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 	border-radius: 4px;
+
 	color: var(--accent-text-color);
 	background-color: var(--button-text-color);
 
@@ -355,17 +355,12 @@ img {
 	text-align: center;
 }
 
-.social-item {
-	height: 40px;
-	width: 40px;
-}
-
 .social-link {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100%;
-	width: 100%;
+	height: 40px;
+	width: 40px;
 	background-color: var(--icon-bcg-color);
 	border-radius: 50%;
 }
@@ -382,17 +377,12 @@ img {
 	letter-spacing: 0.03em;
 }
 
-.customer-item {
-	width: 168px;
-	height: 88px;
-}
-
 .customer-link {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
-	height: 100%;
+	width: 168px;
+	height: 88px;
 	border: 1px solid var(--icon-customer-color);
 	border-radius: 4px;
 }
